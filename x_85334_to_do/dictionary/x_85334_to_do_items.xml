@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="items" max_length="40" name="x_85334_to_do_items" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="500" name="description" type="string"/>
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

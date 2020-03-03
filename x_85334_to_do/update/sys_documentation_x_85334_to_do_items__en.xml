@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="items" language="en" table="x_85334_to_do_items">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>items</label>
+            <language>en</language>
+            <name>x_85334_to_do_items</name>
+            <plural>items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-03 17:18:29</sys_created_on>
+            <sys_id>3412e2422f1b0010c38ac986f699b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>items</sys_name>
+            <sys_package display_value="To Do" source="x_85334_to_do">ec41ea022f1b0010c38ac986f699b679</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">ec41ea022f1b0010c38ac986f699b679</sys_scope>
+            <sys_update_name>sys_documentation_x_85334_to_do_items__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-03 17:18:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
